@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidRx</string>
+
+    <!--Activity Labels-->
+    <string name="activity_list_colours_label">List Colours</string>
+    <string name="activity_list_counties_label">List Counties</string>
+    <string name="activity_list_counties_from_server_label">List Counties From Server</string>
+    <string name="activity_list_counties_from_server_using_singles_label">List Counties From Server (Singles)</string>
+
+    <!--Error Messages-->
+    <string name="error_message">Error!!</string>
+</resources>
